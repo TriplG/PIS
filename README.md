@@ -8,6 +8,6 @@
 
 ### [семинар №4](https://github.com/stankin/design-part-1/wiki/sem4)
 
-### Отчет по [Лабораторным работам](https://github.com/fdick/astemir.github.io/wiki/Отчет-по-лабораторным-работам)
+### Отчет по [Лабораторным работам](https://github.com/TriplG/PIS/wiki/Отчет-по-лабораторным-работам)
 
 ### [Реферат]()
