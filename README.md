@@ -4,4 +4,4 @@
 
 ### [Реферат](https://github.com/TriplG/PIS/wiki/Реферат)
 
-### [UML диаграммы](https://github.com/TriplG/PIS/wiki/Реферат)
+### [UML диаграммы](https://github.com/TriplG/PIS/wiki/UML-диаграммы)
